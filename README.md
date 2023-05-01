@@ -1,3 +1,4 @@
 # Amstrong-by-c-program
-checking whether it is amstrong number or not
+Code for checking whether the give number is 
+amstrong number or not. 
 
